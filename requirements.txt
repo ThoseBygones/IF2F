@@ -1,0 +1,10 @@
+absl-py==1.0.0
+grpcio==1.46.1
+Markdown==3.3.7
+numpy==1.21.6
+Pillow==9.0.1
+protobuf==3.19.0
+scikit-learn==1.0.2
+tensorboard==1.15.0
+tqdm==4.64.0
+Werkzeug==2.1.2

@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.idea/
+.vscode/
+experiments/
+outputs/
+runs/
+pretrained_models/*
+!pretrained_models/.gitkeep
+!pretrained_models/README.md
